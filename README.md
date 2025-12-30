@@ -10,8 +10,8 @@ and concurrency-safe RSVP handling.
 
 ## 🚀 Live Demo
 
-Frontend URL: <ADD_FRONTEND_URL_HERE>  
-Backend URL: <ADD_BACKEND_URL_HERE>
+Frontend URL: https://mini-event-platform-self.vercel.app/  
+Backend URL: https://mini-event-backend-6ikn.onrender.com
 
 ---
 
